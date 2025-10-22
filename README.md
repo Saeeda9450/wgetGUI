@@ -28,7 +28,7 @@ A PyQt5 GUI front-end for wget specialized for downloading open directory listin
 1. Clone or download the repository:
    ```bash
    git clone <repository-url>
-   cd od_downloader
+   cd wgetGUI
    ```
 
 2. Create a virtual environment (recommended):
